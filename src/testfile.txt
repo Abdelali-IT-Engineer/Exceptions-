@@ -1,0 +1,4 @@
+Hello, this is a test file!
+Testing file read operation in Java
+Hello Genius soon
+Hello Smarter already
